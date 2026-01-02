@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aryan Rajput</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | Generative AI Engineer</h3>
+<h1 align="center">
+  Hi 👋, I'm Aryan Rajput
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Scientist;Generative+AI+Engineer;Smart+India+Hackathon+2025+Winner;Building+Production-Grade+AI+Systems" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aryan-rajput-3a1241330">
@@ -17,51 +22,63 @@
 
 ## 🚀 About Me
 
-I build **production-grade AI systems** — not just models.
+I build **production-grade AI systems**, not just models.
 
-- 🧠 **Machine Learning Engineer & Data Scientist** with hands-on experience across the **entire ML lifecycle**
-- 🏆 **Smart India Hackathon 2025 – Winner**
-- ⚙️ Specialized in **Computer Vision, NLP, Deep Learning & Generative AI**
-- ☁️ Experienced in deploying **scalable ML systems on AWS** using REST APIs
-- 🔬 I enjoy turning **research ideas into real-time, working products**
+- 🧠 Machine Learning Engineer & Data Scientist  
+- 🏆 **Smart India Hackathon 2025 – Winner**  
+- ⚙️ Expertise in **Computer Vision, NLP, Deep Learning & Generative AI**  
+- ☁️ Deploying scalable ML systems on **AWS with REST APIs**  
+- 🔬 Turning **research ideas into real-time AI products**
+
+---
+
+## 📌 Featured Projects
+
+### 🏆 AI-Powered Visual Assistance System  
+**Smart India Hackathon 2025 – Winning Project**
+
+- Built a real-time assistance system using **Computer Vision & Deep Learning**
+- Designed for **low-latency inference and scalability**
+- Deployed optimized pipelines for real-world usage  
+
+**Tech:** OpenCV · Deep Learning · Python · AWS  
+
+---
+
+### ✋ Gesture-Controlled Interface for macOS
+
+- Implemented **MediaPipe-based hand tracking**
+- Controlled cursor movement and system volume
+- Achieved **stable 30 FPS real-time performance**
+
+**Tech:** MediaPipe · OpenCV · Python  
+
+---
+
+### 💬 Hybrid Sentiment Analysis System
+
+- Built ensemble NLP model using **VADER + RoBERTa**
+- Processed **500+ Amazon reviews**
+- Improved sentiment classification accuracy
+
+**Tech:** NLP · Transformers · Python  
 
 ---
 
 ## 🏗️ What I’m Working On
 
-- AI systems with **real-time inference & low latency**
-- **Computer Vision pipelines** (gesture control, object detection, visual assistance)
-- **NLP & GenAI systems** (Transformers, sentiment analysis, content generation)
-- **Cloud-native ML deployments** with monitoring & optimization
+- Real-time AI systems with **low-latency inference**
+- **Computer Vision pipelines** (gesture control, detection, tracking)
+- **NLP & GenAI systems** using Transformers
+- Cloud-native ML deployments on **AWS**
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- Computer Vision & GenAI projects  
+- Computer Vision & Generative AI projects  
 - Research-driven or impact-focused AI solutions  
-- Scalable ML systems & production deployments  
-
----
-
-## 🧠 Ask Me About
-
-- Machine Learning pipelines & model optimization  
-- Computer Vision (OpenCV, MediaPipe, YOLO)  
-- NLP (RoBERTa, VADER, sentiment analysis)  
-- AWS ML deployment & REST APIs  
-- Hackathons & building end-to-end AI products  
-
----
-
-## 🏆 Highlight Project
-
-**AI-Powered Visual Assistance System**  
-🏅 *Smart India Hackathon 2025 – Winning Project*
-
-- Built a real-time assistance system using **Computer Vision & Deep Learning**
-- Optimized pipelines for **low-latency deployment**
-- Designed for **scalability and real-world usage**
+- End-to-end ML systems & deployments  
 
 ---
 
@@ -72,7 +89,7 @@ I build **production-grade AI systems** — not just models.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Machine Learning & AI
+### ML / AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -82,11 +99,6 @@ I build **production-grade AI systems** — not just models.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
