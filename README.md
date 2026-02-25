@@ -128,7 +128,7 @@ MongoDB → Ingestion → Validation → Transformation
 # 🐍 Contribution Graph Animation
 
 <p align="center">
-  <img src="https://github.com/aryan594-tech/aryan594-tech/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aryan594-tech/aryan594-tech/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
