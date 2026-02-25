@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Rajput</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00BFFF&center=true&vCenter=true&width=750&lines=Production+ML+Engineer;MLOps+Focused+Systems+Builder;Smart+India+Hackathon+2025+Winner;Docker+%7C+AWS+%7C+CI%2FCD;Designing+Scalable+ML+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00BFFF&center=true&vCenter=true&width=900&lines=Production+ML+Engineer;MLOps+Focused+Systems+Builder;Smart+India+Hackathon+2025+Winner;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+%7C+Observability+%7C+Scalable+ML+Systems" />
 </p>
 
 <p align="center">
@@ -12,9 +12,15 @@
 
 # 🚀 Profile
 
-I design and deploy end-to-end machine learning systems with strong emphasis on real-time inference, production architecture, and cloud deployment.
+I build production-grade machine learning systems with strong emphasis on:
 
-My work spans computer vision, NLP systems, and production-ready ML pipelines integrated with CI/CD and cloud infrastructure.
+- Scalable ML architecture  
+- Container orchestration  
+- CI/CD automation  
+- Cloud-native deployment  
+- Observability & monitoring  
+
+My work bridges model development and real-world deployment.
 
 ---
 
@@ -22,70 +28,45 @@ My work spans computer vision, NLP systems, and production-ready ML pipelines in
 
 ## 🧠 AI-Powered Visual Assistance System
 
-Built a real-time computer vision system designed for low-latency inference and scalable deployment.
+✔ Real-time computer vision inference  
+✔ Optimized deep learning pipeline  
+✔ Low-latency performance architecture  
+✔ Deployment-ready modular design  
 
-### Key Engineering Highlights
-
-✔ Real-time object detection & visual guidance  
-✔ Optimized deep learning inference pipeline  
-✔ Designed for low-latency performance  
-✔ Structured modular pipeline architecture  
-✔ Deployment-ready optimized workflow  
-
-**Tech Stack:** OpenCV · Deep Learning · Python · AWS  
-
-This project was built under national-level competition pressure and selected as a winning solution at Smart India Hackathon 2025.
+Tech: OpenCV · Deep Learning · Python · AWS  
 
 ---
 
-# 🔥 Production MLOps Project
+# 🔥 Production MLOps System
 
-## 🚗 Vehicle Insurance – End-to-End MLOps Pipeline
+## 🚗 Vehicle Insurance – End-to-End ML Pipeline
 
-A production-style ML system implementing:
+Designed a modular ML system integrating:
 
-✔ MongoDB-based Data Ingestion  
-✔ Schema & Data Validation Layer  
-✔ Modular Data Transformation  
+✔ MongoDB Data Ingestion  
+✔ Schema Validation Layer  
+✔ Feature Engineering Pipeline  
 ✔ Model Training & Evaluation  
 ✔ AWS S3 Model Registry  
 ✔ Dockerized API Deployment  
 ✔ GitHub Actions CI/CD  
 ✔ AWS EC2 + ECR Deployment  
-✔ Structured Logging & Custom Exception Handling  
+✔ Kubernetes-based orchestration (architecture layer)  
+✔ Prometheus monitoring + Grafana visualization  
 
-### 🏗️ Architecture Flow
+### 🏗️ System Architecture
 
 ```
 MongoDB → Ingestion → Validation → Transformation
-→ Model Training → Evaluation → S3 Registry
-→ Docker Build → GitHub Actions → AWS EC2 Deployment
+→ Model Training → Evaluation → Model Registry (S3)
+→ Docker Container → Kubernetes Orchestration
+→ CI/CD (GitHub Actions)
+→ AWS Deployment
+→ Prometheus → Grafana
 ```
 
-🔗 Repository:  
+🔗 Repository  
 👉 https://github.com/aryan594-tech/YT-MLOPS-Proj1
-
----
-
-# 🧠 Additional Projects
-
-## ✋ Gesture-Controlled Interface (macOS)
-
-✔ MediaPipe-based hand tracking  
-✔ Real-time cursor & system control  
-✔ Stable 30 FPS real-time performance  
-
-Tech: MediaPipe · OpenCV · Python  
-
----
-
-## 💬 Hybrid Sentiment Analysis System
-
-✔ Ensemble NLP model (VADER + RoBERTa)  
-✔ Processed 500+ Amazon reviews  
-✔ Improved classification accuracy  
-
-Tech: NLP · Transformers · Python  
 
 ---
 
@@ -104,12 +85,21 @@ Tech: NLP · Transformers · Python
 
 ---
 
-### ⚙️ MLOps & Cloud Infrastructure
+### ⚙️ MLOps & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud
+
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
@@ -118,17 +108,42 @@ Tech: NLP · Transformers · Python
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan594-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan594-tech&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryan594-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://github.com/aryan594-tech/aryan594-tech/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🎯 Engineering Focus
 
-- Real-time ML systems  
-- Production ML architecture  
+- Production ML systems  
+- Scalable inference architecture  
+- Container orchestration  
 - CI/CD for ML workflows  
-- Containerized deployment  
-- Cloud-based model serving  
-- Reproducible pipelines  
+- Cloud-native deployment  
+- Observability-driven engineering  
 
 ---
 
 # 📬 Connect
 
-Open to impactful ML system building and production engineering collaborations.
+Focused on building scalable ML infrastructure and production-ready AI systems.
